@@ -4,7 +4,7 @@ An end-to-end exploratory data analysis project examining Indian data job trends
 
 ## Overview 
 
-Welcome to my analysis of the Indian data job market, with a focus on opportunities in Data Engineering, Data Analytics, and related technology roles. This project was developed to better understand the skills, technologies, and salary trends shaping India's rapidly evolving data industry. The objective is to identify the most valuable technical skills and gain insights that can guide students and aspiring professionals toward informed career decisions.
+This is my analysis of the Indian data job market, with a focus on opportunities in Data Engineering, Data Analytics, and related technology roles. This project was developed to better understand the skills, technologies, and salary trends shaping India's rapidly evolving data industry. The objective is to identify the most valuable technical skills and gain insights that can guide students and aspiring professionals toward informed career decisions.
 
 The analysis is based on a comprehensive dataset of job postings used in Luke Barousse's Python course. The dataset includes information such as job titles, salary estimates, locations, and required technical skills. Using Python for data cleaning, exploration, and visualization, this project investigates key questions surrounding skill demand, salary distribution, technology trends, and the relationship between compensation and in-demand skills within the Indian job market.
 

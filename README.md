@@ -101,23 +101,23 @@ To gain an overview of the Indian Data Analyst job market, I filtered the datase
 
 I then explored the geographic distribution of jobs, identified the companies with the highest number of openings, and analyzed common job benefits such as work from home opportunities, degree requirements, and health insurance. This analysis provides a snapshot of the hiring landscape before exploring skills and salary trends.
 
-For Full Code: [1.EDA](1_EDA.ipynb)
+For Full Code: [1.EDA](Project/1_EDA.ipynb)
 
 
 ### Results
 
 - **Top Job Locations for Data Analysts in India**
 
-![Locations](images/eda1file1.png)
+![Locations](Project\images\eda1file1.png)
 
 
 - **Most Common Job Benefits & Requirements**
 
-![Insights](images/eda2.png)
+![Insights](Project\images\eda2.png)
 
 - **Top Companies Hiring Data Analysts**
 
-![Companies](images/eda3.png)
+![Companies](Project\images\eda3.png)
 
 
 ### Insights
@@ -131,7 +131,7 @@ For Full Code: [1.EDA](1_EDA.ipynb)
 
 To identify the most sought-after technical skills, I analyzed job postings for the three most common data roles in India. After extracting and counting individual skills from each posting, I calculated the percentage of jobs requiring each skill. This highlights the core technologies employers expect candidates to possess across different career paths.
 
-For Full Code: [2. The Skill Count](2_Skill_Count.ipynb)
+For Full Code: [2. The Skill Count](Project\2_Skill_Count.ipynb)
 
 ### Visualize Data
 
@@ -163,7 +163,7 @@ plt.show()
 
 **Likelihood of Skills Requested Across the Top 3 Data Roles in India**
 
-![Skill Demands](images/file2output.png)
+![Skill Demands](Project\images\file2output.png)
 
 ### Insights
 
@@ -178,7 +178,7 @@ plt.show()
 
 To understand how the market evolved throughout the year, I tracked the monthly demand for the top 5 most requested skills for Data Analysts in India. By normalizing the skill counts against the total job postings each month, this analysis reveals whether certain technologies are gaining traction or losing momentum over time.
 
-For Full Code: [3.The Trend Analysis](3_Skills_Trend.ipynb)
+For Full Code: [3.The Trend Analysis](Project\3_Skills_Trend.ipynb)
 
 ### Visualize Data
 
@@ -211,7 +211,7 @@ plt.show()
 
 **Trending Top Skills for Data Analysts in India**
 
-![Skill Trends](images\file3output.png)
+![Skill Trends](Project\images\file3output.png)
 
 ### Insights
 
@@ -224,7 +224,7 @@ plt.show()
 
 To investigate the financial side of the data industry, I looked into the salary distributions across major data roles in India and dug deeper into how specific technical skills affect earning potential for Data Analysts. This analysis compares both the highest-paying niche skills against the baseline earnings of the most frequently requested skills.
 
-For Full Code: [4.The Salary Analysis](4_Salary_Analysis.ipynb)
+For Full Code: [4.The Salary Analysis](Project\4_Salary_Analysis.ipynb)
 
 ### Visualize Data
 
@@ -252,11 +252,11 @@ plt.show()
 
 **Salary Distributions Across Roles**
 
-![Role Salary Distributions](images\file4output1.png)
+![Role Salary Distributions](Project\images\file4output1.png)
 
 **Highest Paid vs. Most In-Demand Skills for Data Analysts**
 
-![Skills vs Pay](images\file4output2.png)
+![Skills vs Pay](Project\images\file4output2.png)
 
 ### Insights
 
@@ -269,7 +269,7 @@ plt.show()
 
 To find the ultimate "sweet spot" for aspiring Data Analysts, this section combines the insights from both market demand (frequency of job postings) and financial reward (median salaries). By mapping these two metrics against each other in a scatter plot, we can identify which skills offer the highest optimal value—high demand combined with strong compensation.
 
-For Full Code: [5.The Optimal Skills](5_Optimal_Skills.ipynb)
+For Full Code: [5.The Optimal Skills](Project\5_Optimal_Skills.ipynb)
 
 ### Visualize Data
 
@@ -301,7 +301,7 @@ plt.show()
 
 **Most Optimal Skills for Data Analysts in India**
 
-![Optimal Skills](images\file5output.png)
+![Optimal Skills](Project\images\file5output.png)
 
 ### Insights
 
